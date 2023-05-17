@@ -16,7 +16,7 @@ const quizData = [
         correct: "c",
     },
     {
-        question: "What percent of crashes are cause by human error",
+        question: "What percent of crashes are cause by human error?",
         a: "94%",
         b: "28%",
         c: "54%",
