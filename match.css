@@ -120,7 +120,7 @@ body1 {
   position: fixed;
   align-items: center;
   justify-content: center;
-  left: 10px; /* Adjust the value as needed */
+  left: 10px; 
   transform: translateX(-50%);
 }
 
